@@ -1,7 +1,7 @@
 # Question 4: Sports vs. Politics News Classifier 
 
 This repository contains the implementation and report for a binary text classifier designed to distinguish between **Sports** and **Politics** news. The project explores feature representation, model comparison, and the iterative process of dataset validation to ensure model robustness
-
+## Github page link: http://jyotidwivedi.me/M25CSA010_NLU_A1/
 ##  Project Overview
 The core objective was to move beyond simplistic datasets to address the "Perfect Accuracy Trap" found in highly curated benchmarks The final model utilizes the **20 Newsgroups dataset**, which offers a higher degree of noise and real-world complexity
 
