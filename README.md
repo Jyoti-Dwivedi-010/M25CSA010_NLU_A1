@@ -32,8 +32,7 @@ The system follows a **Bag-of-Words** approach, meaning it lacks syntactic hiera
 
 ## Repository Contents
 * `M25CSA010_prob4.pdf`: Detailed Technical Report
-* Source code for TF-IDF Vectorization and Model Training.
-* Dataset preprocessing scripts.
+* Source code 
 
 ---
 **Author**: Dwivedi Jyoti Rajeshbhai (M25CSA010)   
